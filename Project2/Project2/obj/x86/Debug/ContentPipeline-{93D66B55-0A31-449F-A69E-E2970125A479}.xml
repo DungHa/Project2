@@ -1,0 +1,699 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\Hud.spritefont</Source>
+      <Name>Fonts\Hud</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Fonts\Hud.xnb</Output>
+      <Time>2014-11-21T00:58:14.9087466-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gamefont.spritefont</Source>
+      <Name>gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\gamefont.xnb</Output>
+      <Time>2014-11-17T03:30:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>menufont.spritefont</Source>
+      <Name>menufont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\menufont.xnb</Output>
+      <Time>2014-11-17T03:30:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA0.png</Source>
+      <Name>Tiles\BlockA0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Tiles\BlockA0.xnb</Output>
+      <Time>2014-11-10T22:45:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA1.png</Source>
+      <Name>Tiles\BlockA1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Tiles\BlockA1.xnb</Output>
+      <Time>2014-11-10T22:45:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA2.png</Source>
+      <Name>Tiles\BlockA2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Tiles\BlockA2.xnb</Output>
+      <Time>2014-11-10T22:45:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA3.png</Source>
+      <Name>Tiles\BlockA3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Tiles\BlockA3.xnb</Output>
+      <Time>2014-11-10T22:45:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA4.png</Source>
+      <Name>Tiles\BlockA4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Tiles\BlockA4.xnb</Output>
+      <Time>2014-11-10T22:45:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA5.png</Source>
+      <Name>Tiles\BlockA5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Tiles\BlockA5.xnb</Output>
+      <Time>2014-11-10T22:45:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockA6.png</Source>
+      <Name>Tiles\BlockA6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Tiles\BlockA6.xnb</Output>
+      <Time>2014-11-10T22:45:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockB0.png</Source>
+      <Name>Tiles\BlockB0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Tiles\BlockB0.xnb</Output>
+      <Time>2014-11-10T22:45:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\BlockB1.png</Source>
+      <Name>Tiles\BlockB1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Tiles\BlockB1.xnb</Output>
+      <Time>2014-11-10T22:45:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Exit2.png</Source>
+      <Name>Tiles\Exit2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Tiles\Exit2.xnb</Output>
+      <Time>2014-11-13T02:49:26-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Platform.png</Source>
+      <Name>Tiles\Platform</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Tiles\Platform.xnb</Output>
+      <Time>2014-11-10T22:45:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\level1.png</Source>
+      <Name>Backgrounds\level1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Backgrounds\level1.xnb</Output>
+      <Time>2014-11-10T22:50:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\level2.png</Source>
+      <Name>Backgrounds\level2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Backgrounds\level2.xnb</Output>
+      <Time>2014-11-10T22:50:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Idle.png</Source>
+      <Name>Sprites\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\Idle.xnb</Output>
+      <Time>2014-11-12T00:14:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\runold.png</Source>
+      <Name>Sprites\runold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\runold.xnb</Output>
+      <Time>2014-11-12T01:20:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\jump.png</Source>
+      <Name>Sprites\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\jump.xnb</Output>
+      <Time>2014-11-12T01:56:52-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\default.png</Source>
+      <Name>Sprites\default</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\default.xnb</Output>
+      <Time>2014-11-12T02:04:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\blast.png</Source>
+      <Name>Sprites\blast</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\blast.xnb</Output>
+      <Time>2014-11-12T14:55:06-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterVer1\Idle.png</Source>
+      <Name>Sprites\MonsterVer1\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\MonsterVer1\Idle.xnb</Output>
+      <Time>2014-11-12T16:27:48-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\dragonball.png</Source>
+      <Name>Sprites\dragonball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\dragonball.xnb</Output>
+      <Time>2014-11-12T23:49:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterVer1\Run.png</Source>
+      <Name>Sprites\MonsterVer1\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\MonsterVer1\Run.xnb</Output>
+      <Time>2014-11-21T03:30:53.5795926-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterVer1\Die.png</Source>
+      <Name>Sprites\MonsterVer1\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\MonsterVer1\Die.xnb</Output>
+      <Time>2014-11-21T03:30:53.5815927-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\run.png</Source>
+      <Name>Sprites\run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\run.xnb</Output>
+      <Time>2014-11-13T02:07:44-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Ground0.png</Source>
+      <Name>Tiles\Ground0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Tiles\Ground0.xnb</Output>
+      <Time>2014-11-13T02:54:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Ground1.png</Source>
+      <Name>Tiles\Ground1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Tiles\Ground1.xnb</Output>
+      <Time>2014-11-13T02:54:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Ground2.png</Source>
+      <Name>Tiles\Ground2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Tiles\Ground2.xnb</Output>
+      <Time>2014-11-13T02:54:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Ground3.png</Source>
+      <Name>Tiles\Ground3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Tiles\Ground3.xnb</Output>
+      <Time>2014-11-13T02:54:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Ground4.png</Source>
+      <Name>Tiles\Ground4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Tiles\Ground4.xnb</Output>
+      <Time>2014-11-13T02:54:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Backgrounds\level3.png</Source>
+      <Name>Backgrounds\level3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Backgrounds\level3.xnb</Output>
+      <Time>2014-11-13T03:00:12-05:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2014-11-15T15:35:22-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\playerDash.png</Source>
+      <Name>Sprites\playerDash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\playerDash.xnb</Output>
+      <Time>2014-11-16T02:56:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>blank.png</Source>
+      <Name>blank</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\blank.xnb</Output>
+      <Time>2014-11-17T03:30:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>gradient.png</Source>
+      <Name>gradient</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\gradient.xnb</Output>
+      <Time>2014-11-17T03:30:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\Exit.png</Source>
+      <Name>Tiles\Exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Tiles\Exit.xnb</Output>
+      <Time>2014-11-17T20:53:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\MonsterKilled.wma</Source>
+      <Name>Sounds\MonsterKilled</Name>
+      <Importer>WmaImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sounds\MonsterKilled.xnb</Output>
+      <Time>2014-11-10T22:51:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\ExitReached.mp3</Source>
+      <Name>Sounds\ExitReached</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sounds\ExitReached.xnb</Output>
+      <Time>2014-11-15T16:41:28-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PlayerFall.mp3</Source>
+      <Name>Sounds\PlayerFall</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sounds\PlayerFall.xnb</Output>
+      <Time>2014-11-15T17:05:46-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PlayerKilled.mp3</Source>
+      <Name>Sounds\PlayerKilled</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sounds\PlayerKilled.xnb</Output>
+      <Time>2014-11-15T17:09:58-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\senzu.mp3</Source>
+      <Name>Sounds\senzu</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sounds\senzu.xnb</Output>
+      <Time>2014-11-15T17:26:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\1.mp3</Source>
+      <Name>Sounds\1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sounds\1.xnb</Output>
+      <Extra>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sounds\1.wma</Extra>
+      <Time>2014-11-16T00:59:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\2.mp3</Source>
+      <Name>Sounds\2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sounds\2.xnb</Output>
+      <Extra>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sounds\2.wma</Extra>
+      <Time>2014-11-16T00:59:24-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\timeUp.mp3</Source>
+      <Name>Sounds\timeUp</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sounds\timeUp.xnb</Output>
+      <Time>2014-11-16T01:42:32-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\0.wav</Source>
+      <Name>Sounds\0</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sounds\0.xnb</Output>
+      <Extra>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sounds\0.wma</Extra>
+      <Time>2014-11-16T03:08:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\dash.wav</Source>
+      <Name>Sounds\dash</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sounds\dash.xnb</Output>
+      <Time>2014-11-21T22:12:00.8650642-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\blastSound.wav</Source>
+      <Name>Sounds\blastSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sounds\blastSound.xnb</Output>
+      <Time>2014-11-16T03:16:16-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Overlays\YouDied.png</Source>
+      <Name>Overlays\YouDied</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Overlays\YouDied.xnb</Output>
+      <Time>2014-11-21T01:20:26.6499178-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Overlays\YouLose.png</Source>
+      <Name>Overlays\YouLose</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Overlays\YouLose.xnb</Output>
+      <Time>2014-11-21T01:20:26.6979206-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Overlays\YouWin.png</Source>
+      <Name>Overlays\YouWin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Overlays\YouWin.xnb</Output>
+      <Time>2014-11-21T01:20:26.6999207-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\MainMenuSong.wav</Source>
+      <Name>Sounds\MainMenuSong</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sounds\MainMenuSong.xnb</Output>
+      <Extra>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sounds\MainMenuSong.wma</Extra>
+      <Time>2014-11-21T01:30:06.5430858-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Powerup.wav</Source>
+      <Name>Sounds\Powerup</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sounds\Powerup.xnb</Output>
+      <Time>2014-11-21T01:41:08.3219374-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\PlayerJump.wav</Source>
+      <Name>Sounds\PlayerJump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sounds\PlayerJump.xnb</Output>
+      <Time>2014-11-21T01:43:24.5617299-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\GemCollected.wav</Source>
+      <Name>Sounds\GemCollected</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sounds\GemCollected.xnb</Output>
+      <Time>2014-11-21T01:45:40.0904817-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterVer2\Run.png</Source>
+      <Name>Sprites\MonsterVer2\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\MonsterVer2\Run.xnb</Output>
+      <Time>2014-11-13T01:28:10-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterVer2\Die.png</Source>
+      <Name>Sprites\MonsterVer2\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\MonsterVer2\Die.xnb</Output>
+      <Time>2014-11-13T01:49:18-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\MonsterVer2\Idle.png</Source>
+      <Name>Sprites\MonsterVer2\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\MonsterVer2\Idle.xnb</Output>
+      <Time>2014-11-21T03:35:00.6097219-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Special\special.png</Source>
+      <Name>Sprites\Special\special</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\Special\special.xnb</Output>
+      <Time>2014-11-21T05:00:09.1499137-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Special\special1.png</Source>
+      <Name>Sprites\Special\special1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\Special\special1.xnb</Output>
+      <Time>2014-11-21T05:08:43.9543588-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Special\special2.png</Source>
+      <Name>Sprites\Special\special2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\Special\special2.xnb</Output>
+      <Time>2014-11-21T05:08:44.464388-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Special\special10.png</Source>
+      <Name>Sprites\Special\special10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\Special\special10.xnb</Output>
+      <Time>2014-11-21T05:08:44.4973899-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Special\special3.png</Source>
+      <Name>Sprites\Special\special3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\Special\special3.xnb</Output>
+      <Time>2014-11-21T05:08:44.4683882-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Special\special4.png</Source>
+      <Name>Sprites\Special\special4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\Special\special4.xnb</Output>
+      <Time>2014-11-21T05:08:44.4713884-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Special\special5.png</Source>
+      <Name>Sprites\Special\special5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\Special\special5.xnb</Output>
+      <Time>2014-11-21T05:08:44.4733885-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Special\special6.png</Source>
+      <Name>Sprites\Special\special6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\Special\special6.xnb</Output>
+      <Time>2014-11-21T05:08:44.4873893-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Special\special7.png</Source>
+      <Name>Sprites\Special\special7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\Special\special7.xnb</Output>
+      <Time>2014-11-21T05:08:44.4903895-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Special\special8.png</Source>
+      <Name>Sprites\Special\special8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\Special\special8.xnb</Output>
+      <Time>2014-11-21T05:08:44.4933897-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Special\special9.png</Source>
+      <Name>Sprites\Special\special9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sprites\Special\special9.xnb</Output>
+      <Time>2014-11-21T05:08:44.4953898-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\specialSound.wav</Source>
+      <Name>Sounds\specialSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sounds\specialSound.xnb</Output>
+      <Time>2014-11-21T05:36:43.143403-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\pauseSound.mp3</Source>
+      <Name>Sounds\pauseSound</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\documents\visual studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sounds\pauseSound.xnb</Output>
+      <Time>2014-11-21T15:39:24.4678354-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\enemyDie.wav</Source>
+      <Name>Sounds\enemyDie</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Hero\documents\visual studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\Sounds\enemyDie.xnb</Output>
+      <Time>2014-11-21T22:03:02.2442569-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{93D66B55-0A31-449F-A69E-E2970125A479}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Hero\documents\visual studio 2012\Projects\Project2\Project2\Project2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Hero\documents\visual studio 2012\Projects\Project2\Project2\Project2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Hero\documents\visual studio 2012\Projects\Project2\Project2\Project2\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Hero\documents\visual studio 2012\Projects\Project2\Project2\Project2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-05T22:34:05.4352641-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

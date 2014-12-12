@@ -1,0 +1,2 @@
+c:\users\hero\documents\visual studio 2012\Projects\Project2\Project2\Project2Content\obj\x86\Debug\Project2Content.contentprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2012\Projects\Project2\Project2\Project2Content\obj\x86\Debug\Project2Content.contentprojResolveAssemblyReference.cache
